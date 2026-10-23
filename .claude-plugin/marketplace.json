@@ -1,0 +1,11 @@
+{
+  "name": "team-topologies-skill",
+  "owner": { "name": "Håkon Smith-Nilsen" },
+  "plugins": [
+    {
+      "name": "team-topologies",
+      "source": "./plugins/team-topologies",
+      "description": "Team Topologies reference/review checklist and official diagramming shapes (Skelton & Pais)"
+    }
+  ]
+}
